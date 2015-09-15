@@ -1,0 +1,57 @@
+pause speech
+continue speech
+move forward
+move backward
+move back
+move left
+move right
+go forward
+go backward
+go back
+go left
+go right
+go straight
+come forward
+come backward
+come left
+come right
+turn left
+turn right
+rotate left
+rotate right
+faster
+speed up
+slower
+slow down
+quarter speed
+half speed
+full speed
+stop
+stop now
+halt
+abort
+kill
+panic
+help
+help me
+freeze
+turn off
+shut down
+find
+go to the
+get
+kitchen
+badroom
+bathroom
+living room
+hall
+what time is it
+go to the badromm
+go to the hall
+go to the kitchen room
+go to the bathroom
+Joseph
+John
+Espermatoclarson
+Mary
+cancel
